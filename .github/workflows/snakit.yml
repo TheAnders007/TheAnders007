@@ -1,6 +1,6 @@
 name: Generate Datas
 
-git update-index --chmod=+x ./.github/scripts/backend_decrypt.sh
+git update-index --chmod=+x your_script.sh
 
 on:
   schedule: # execute every 12 hours
