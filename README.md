@@ -1,4 +1,4 @@
-## Hello, guys!!
+# Hello, guys!!
 
 
 <img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -9,7 +9,7 @@
 
 ⠀⠀⠀⠀ 
 ⠀⠀⠀⠀ 
-### Informações 
+## Informações 
 ~~~
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 15 anos
@@ -17,11 +17,18 @@
 ○ 👨‍💻 Aprendendo Java, JavaScript e Python
 ~~~
 
-<div align="center">
 
-![Snake animation](https://github.com/TheAnders007/TheAnders007/blob/output/github-contribution-grid-snake.svg)
+## Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAnders007&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAnders007&show_icons=true&theme=dark) 
+⠀⠀⠀
+<img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnders007&layout=compact&langs_count=7&theme=dark"/>
+
+
+## Contatos
+
+<div align="left">
+<a href = "mailto:contato@andersonmaiast@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
   
