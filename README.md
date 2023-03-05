@@ -1,4 +1,4 @@
-### Hello, guys!!
+## Hello, guys!!
 
 
 <img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -9,11 +9,12 @@
 
 ⠀⠀⠀⠀ 
 ⠀⠀⠀⠀ 
+### Informações 
 ~~~
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 15 anos
 ○ 🚹 Pronomes: ele/dele
-○ 👨‍💻 Aprendendo Python, Java e JavaScript
+○ 👨‍💻 Aprendendo Java, JavaScript e Python
 ~~~
 
 <div align="center">
