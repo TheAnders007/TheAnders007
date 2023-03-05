@@ -1,11 +1,12 @@
 name: Generate Datas
 
+git update-index --chmod=+x ./.github/scripts/backend_decrypt.sh
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
 
-git update-index --chmod=+x ./.github/scripts/backend_decrypt.sh
 
 jobs:
   build:
