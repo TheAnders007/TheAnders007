@@ -1,10 +1,10 @@
 <h1 align="center"> Hello, guys!! <br> Sejam bem-vindos ao meu perfil! </h1>
 
-[📚](https://github.com/TheAnders007/TheAnders007/blob/main/engREADME.md)
+PT-BR<br>
+[EN-US](https://github.com/TheAnders007/TheAnders007/blob/main/engREADME.md)
 <img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="right" alt="Rafa-Javascript" height="34" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="right" alt="Rafa-Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
 
 
 ⠀⠀⠀⠀ 
