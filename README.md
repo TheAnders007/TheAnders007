@@ -1,4 +1,4 @@
-# Hello, guys!!
+<h1 align="center"> Hello, guys!! <br> Sejam bem-vindos ao meu perfil </h1>
 
 
 <img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,6 +14,7 @@
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 15 anos
 ○ 🚹 Pronomes: ele/dele
+○ 📚 Estudante do 3° Período do Curso de Informática no IFCE
 ○ 👨‍💻 Aprendendo Java, JavaScript e Python
 ~~~
 
