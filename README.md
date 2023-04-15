@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, guys!! <br> Sejam bem-vindos ao meu perfil </h1>
+<h1 align="center"> Hello, guys!! <br> Sejam bem-vindos ao meu perfil! </h1>
 
 
 <img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
