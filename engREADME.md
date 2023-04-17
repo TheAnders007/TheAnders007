@@ -15,7 +15,7 @@
 ○ 👨 I'm 15 years old
 ○ 🚹 Pronouns: he/him
 ○ 📚 Student in the third semester of the integrated computer course at IFCE
-○ 👨‍💻 Learning Java, JavaScript e Python
+○ 👨‍💻 Learning Java, JavaScript and Python
 ~~~
 
 
