@@ -1,14 +1,9 @@
-<h1 align="center"> Hello, guys!! <br> Welcome to my profile! </h1>
+<h1 align="center"> Hello, guys!! <br> ✦Welcome to my profile!✦ </h1>
 
 
-<img align="right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" alt="Rafa-Javascript" height="34" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="right" alt="Rafa-Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-
-
-⠀⠀⠀⠀ 
-⠀⠀⠀⠀ 
+![steven universe aesthetics_ Photo.png](https://user-images.githubusercontent.com/124885820/232915678-22f8693a-89bc-4693-949c-a3ddba61a201.png)
+⠀⠀⠀
+⠀⠀ ⠀⠀⠀ 
 ## Informations
 ~~~
 ○ 🇧🇷 I'm Brazilian
@@ -17,6 +12,15 @@
 ○ 📚 Student in the third semester of the integrated computer course at IFCE
 ○ 👨‍💻 Learning Java, JavaScript and Python
 ~~~
+
+<br> <br>
+
+<img align="right" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="right" alt="Javascript" height="34" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="right" alt="Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<br> <br>
+
 
 
 ## Stats
@@ -35,3 +39,12 @@
 
 
   
+
+
+<br> <br>
+
+<img align="right" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="right" alt="Javascript" height="34" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="right" alt="Java" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<br> <br>
