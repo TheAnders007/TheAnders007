@@ -35,5 +35,7 @@
 #### *If you want to read this README in English:*
 <br> 
 <img align="left" height="34" width="42" src="https://user-images.githubusercontent.com/124885820/232338814-3b22419e-736f-45e5-bf24-ef0d8110b26b.png">
+  
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg) 
 
 [*•  EN-US*](https://github.com/TheAnders007/TheAnders007/blob/main/engREADME.md)
