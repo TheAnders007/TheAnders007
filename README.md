@@ -1,15 +1,12 @@
-<h1 align="center"> Hello, guys!! <br> ✦Sejam bem-vindos ao meu perfil!✦ </h1>
+<h1 align="center"> Olá! Sejam bem-vindo ao ao meu perfil! </h1>
 
-![steven universe aesthetics_ Photo.png](https://user-images.githubusercontent.com/124885820/232915678-22f8693a-89bc-4693-949c-a3ddba61a201.png)
-⠀⠀⠀⠀ 
 ⠀⠀⠀⠀ 
 ## Informações 
 ~~~
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 15 anos
-○ 🚹 Pronomes: ele/dele
 ○ 📚 Estudante do 3° Período do Curso de Informática no IFCE
-○ 👨‍💻 Aprendendo Java, JavaScript e Python
+○ 👨‍💻 Aprendendo HTML, Java, JavaScript e Python
 ~~~
 
 <br> <br>
@@ -20,6 +17,14 @@
 
 <br> <br>
 
+## Projetos
+~~~
+○ Calculadora de Média Final em Python
+○ Jogo de Pedra, Papel ou Tesoura em Python
+○ Calculadora de Figuras Geométricas (em andamento)
+~~~
+
+<br><br>
 
 ## Estatísticas
 
