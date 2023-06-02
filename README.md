@@ -22,9 +22,11 @@
 <br> <br>
 
 ## Projetos
-~~~
-○ [Jogo de Pedra, Papel ou Tesoura em Python] (https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-.git) ○ Calculadora de Figuras Geométricas em Java (em andamento)
-~~~
+
+○ [Jogo de Pedra, Papel ou Tesoura em Python] (https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-.git)
+<br>
+○ Calculadora de Figuras Geométricas em Java (em andamento)
+
 
 <br><br>
 
