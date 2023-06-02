@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Sejam bem-vindo ao ao meu perfil! </h1>
+<h1 align="center"> Olá! Seja bem-vindo ao ao meu perfil! </h1>
 
 ⠀⠀⠀⠀ 
 ## Informações 
@@ -23,10 +23,9 @@
 
 ## Projetos
 
-○ [Jogo de Pedra, Papel ou Tesoura em Python] (https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-)
+○ [Jogo de Pedra, Papel ou Tesoura em Python](https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-) (Projeto Final da disciplina de Fundamentos da Programação I)
 <br>
-○ Calculadora de Figuras Geométricas em Java (em andamento)
-
+○ [Calculadora de Figuras Geométricas em Java](https://github.com/TheAnders007/FigurasGeometricas) (Projeto Final da disciplina de Programação Orientada a Objetos)
 
 <br><br>
 
@@ -49,12 +48,3 @@
  
 ![Snake animation](https://github.com/TheAnders007/TheAnders007/blob/output/github-contribution-grid-snake.svg) 
   
-<br> <br>
-#### *If you want to read this README in English:*
-<br> 
-<img align="left" height="46" width="55" src="https://user-images.githubusercontent.com/124885820/232338814-3b22419e-736f-45e5-bf24-ef0d8110b26b.png">
-  
-
-
-<br> <br> <br>
-[*•  EN-US*](https://github.com/TheAnders007/TheAnders007/blob/main/engREADME.md)
