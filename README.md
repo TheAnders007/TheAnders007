@@ -21,6 +21,13 @@
 
 <br> <br>
 
+## Educação 
+
+• **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024); <br>
+• Disciplinas já cursadas: Introdução a Programação (Apresentação dos conceitos básicos), Fundamentos da Programação I (introdução à linguagem Python), Administração de Sistemas Operacionais; <br>
+• Disciplinas que estou cursando: Fundamentos da Programação II (introdução à linguagem JavaScript e ao DOM), Programação Orientada a Objetos (introdução à linguagem Java e apresentação de conceitos de POO).** <br>
+<br>
+
 ## Projetos
 
 ○ [Jogo de Pedra, Papel ou Tesoura em Python](https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-) (Projeto Final da disciplina de Fundamentos da Programação I)
@@ -39,6 +46,10 @@
 
 <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnders007&layout=compact&langs_count=7&theme=dark"/>
 
+<br> <br>
+
+![Snake animation](https://github.com/TheAnders007/TheAnders007/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ## Contatos
@@ -46,5 +57,5 @@
 <div align="left">
 <a href = "mailto:andersonmaiast@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/TheAnders007/TheAnders007/blob/output/github-contribution-grid-snake.svg) 
+ 
   
