@@ -32,9 +32,11 @@
 <br>
 
 ![Badge](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 <br>
+
 ## Projetos
 
 ○ [Jogo de Pedra, Papel ou Tesoura em Python](https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-) (Projeto Final da disciplina de Fundamentos da Programação I)
