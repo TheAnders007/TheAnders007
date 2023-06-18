@@ -28,6 +28,9 @@
 • Disciplinas que estou cursando: Fundamentos da Programação II (introdução à linguagem JavaScript e ao DOM), Programação Orientada a Objetos (introdução à linguagem Java e apresentação de conceitos de POO).** <br>
 <br>
 
+## Ferramentas Utilizadas
+
+
 ## Projetos
 
 ○ [Jogo de Pedra, Papel ou Tesoura em Python](https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-) (Projeto Final da disciplina de Fundamentos da Programação I)
