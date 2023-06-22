@@ -33,6 +33,7 @@
 
 ![Badge](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 <br>
