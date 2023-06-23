@@ -42,7 +42,7 @@
 
 ○ [Jogo de Pedra, Papel ou Tesoura em Python](https://github.com/TheAnders007/Pedra-Papel-ou-Tesoura-) (Projeto Final da disciplina de Fundamentos da Programação I)
 <br>
-○ [Calculadora de Figuras Geométricas em Java](https://github.com/Cam1ss/Projeto_POO)(Projeto Final da disciplina de Programação Orientada a Objetos)
+○ [Calculadora de Figuras Geométricas em Java](https://github.com/TheAnders007/ProjetoFinalPOO) (Projeto Final da disciplina de Programação Orientada a Objetos)
 
 <br><br>
 
