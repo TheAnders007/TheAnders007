@@ -24,9 +24,8 @@
 ## Educação 
 
 • **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024); <br>
-• Disciplinas já cursadas: Introdução a Programação (Apresentação dos conceitos básicos), Fundamentos da Programação I (introdução à linguagem Python), Administração de Sistemas Operacionais; <br>
-• Disciplinas que estou cursando: Fundamentos da Programação II (introdução à linguagem JavaScript e ao DOM), Programação Orientada a Objetos (introdução à linguagem Java e apresentação de conceitos de POO).** <br>
-<br>
+• Disciplinas já cursadas: Introdução a Programação (Apresentação dos conceitos básicos), Fundamentos da Programação I (introdução à linguagem Python), Administração de Sistemas Operacionais, Fundamentos da Programação II (introdução à linguagem JavaScript e ao DOM), Programação Orientada a Objetos (introdução à linguagem Java e apresentação de conceitos de POO).** <br> <br>
+
 
 ## Ferramentas Utilizadas
 <br>
