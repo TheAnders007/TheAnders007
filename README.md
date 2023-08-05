@@ -4,8 +4,8 @@
 ## Informações 
 ~~~
 ○ 🇧🇷 Brasileiro
-○ 👨 Tenho 15 anos
-○ 📚 Estudante do 3° Período do Curso de Informática no IFCE
+○ 👨 Tenho 16 anos
+○ 📚 Estudante do 4° Período do Curso de Informática no IFCE
 ○ 👨‍💻 Aprendendo HTML, Java, JavaScript e Python
 ~~~
 
