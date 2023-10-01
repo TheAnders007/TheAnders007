@@ -6,7 +6,7 @@
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 16 anos
 ○ 📚 Estudante do 4° Período do Curso de Informática no IFCE
-○ 👨‍💻 Aprendendo HTML, Java, JavaScript e Python
+○ 👨‍💻 Aprendendo HTML, Java, JavaScript, Python, SQL e Swift
 ~~~
 
 <br> <br>
