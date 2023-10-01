@@ -19,7 +19,6 @@
 
 <img align="right" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-<img align="right" alt="SQL" height="40" width="50" src="https://icons8.com.br/icon/13406/sql">
 
 <br> <br>
 
