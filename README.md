@@ -5,11 +5,15 @@
 ~~~
 ○ 🇧🇷 Brasileiro
 ○ 👨 Tenho 16 anos
-○ 📚 Estudante do 4° Período do Curso de Informática no IFCE
+○ 📚 Estudante do 5° Período do Curso de Informática no IFCE
 ○ 👨‍💻 Aprendendo HTML, Java, JavaScript, Python, SQL e Swift
 ~~~
 
 <br> <br>
+
+<img align="right" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+<img align="right" alt="Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 
 <img align="right" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
