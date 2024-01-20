@@ -28,9 +28,36 @@
 
 ## Educação 
 
-• **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024); <br> <br>
-• Disciplinas já cursadas: Introdução a Programação (Apresentação dos conceitos básicos), Fundamentos da Programação I (introdução à linguagem Python), Administração de Sistemas Operacionais, Fundamentos da Programação II (introdução à linguagem JavaScript e ao DOM), Programação Orientada a Objetos (introdução à linguagem Java e apresentação de conceitos de POO), Banco de Dados, Redes de Computadores, Programação de Dispositivos Móveis I (Swift), Prática Profissional I, e Métodos e Ferramentas de Desenvolvimento de Software; <br> <br>
-• Disciplinas que estou cursando:** 
+
+
+
+• **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024);** <br> 
+
+### • Disciplinas já cursadas: <br> 
+
+| Disciplina | Descrição | 
+| :--------: | -------- |
+| Introdução a Programação | Apresentação dos conceitos básicos da lógica de programação. |
+| Fundamentos da Programação I | Contato com a linguagem python e tópicos como tipos de variáveis, strings, arrays e módulos. |
+| Administração de Sistemas Operacionais | Disciplina focada em gerar o conhecimento de administração básica de sistemas operacionais, como Windows e Linux, desde a instalação a análise de informações do sistema. |
+| Fundamentos da Programação II | Contato com a linguagem Javascript de forma similar ao contato com o python e um breve estudo sobre DOM. |
+| Programação Orientada a Objetos | Ensinamentos sobre os conceitos de POO por meio de exercícios e um trabalho final que utilizavam a linguagem Java. |
+| Banco de Dados | Contato com SQLite3, comandos pelo terminal e PostMan. |
+| Redes de Computadores | Apresentação dos conceitos de redes, suas 7 camadas, e principalmente na camada 3 do Modelo OSI (Camada de Rede) e Protolos. |
+| Programação de Dispositivos Móveis I <br> e <br> Prática Profissional I | Junção de disciplinas a fim de desenvolver a capacidade dos alunos de desenvolverem uma aplicação mobile utilizando a linguagem Swift.|
+| Métodos e Ferramentas de Desenvolvimento de Software | Ferramentas e Métodos que ajudam o programador a estabelecer um planejamento que seja eficaz para o desenvolvimento de seu projeto, como metodologias ágeis. A disciplina teve foco na metodologia Scrum. |
+
+<br>
+
+### • Disciplinas que estou cursando: <br>
+
+| Disciplina | Descrição | 
+| :--------: | -------- |
+| Progrmação de Dispositivos Móveis II |  |
+| Programação Web I |  |
+| Prática Profissional II |  |
+| Eletrônica para Informática |  |
+
 <br> <br>
 
 
