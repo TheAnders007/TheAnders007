@@ -2,14 +2,13 @@
 
 ⠀⠀⠀⠀ 
 ## Informações 
-~~~
-○ 🇧🇷 Brasileiro
-○ 👨 Tenho 16 anos
-○ 📚 Estudante do 5° Período do Curso de Informática no IFCE
-○ 👨‍💻 Aprendendo HTML, Java, JavaScript, Python, SQL e Swift
-~~~
+
+<br>
+
+>  Olá! Me chamo Anderson Maia. Sou brasileiro, tenho 16 anos e atualmente estou estudando no 5° Período do Curso de Informática no IFCE - campus Fortaleza, tendo, até o momento, contato com as seguintes linguagens: HTML, Java, JavaScript, Python, SQL e Swift. Além da programação, me interesso por áreas que em geral incluem design, processos criativos e lógica. <p> Estou disposto a cada vez mais conhecer melhor o universo tão grande que é a área de TI, para desenvolver, além  das minhas ideias de projetos, meu perfil como programador. </p>
 
 <br> <br>
+
 
 <img align="right" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
@@ -49,14 +48,18 @@
 
 <br>
 
-### • Disciplinas que estou cursando: <br>
+### • Disciplinas que estou cursando: <br> <br>
 
+<div align="center">
+ 
 | Disciplina | Descrição | 
 | :--------: | -------- |
-| Progrmação de Dispositivos Móveis II |  |
-| Programação Web I |  |
-| Prática Profissional II |  |
+| Programação de Dispositivos Móveis II | Contato com a linguagem Dart e Flutter. |
+| Programação Web I | Aprendizado Inicial sobre Aplicações em formato Web. |
+| Prática Profissional II | Disciplina focada na produção de um projeto de tema livre. |
 | Eletrônica para Informática |  |
+
+</div>
 
 <br> <br>
 
