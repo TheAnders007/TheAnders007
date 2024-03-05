@@ -32,21 +32,7 @@
 
 • **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024);** <br> 
 
-### • Disciplinas já cursadas: <br> 
 
-| Disciplina | Descrição | 
-| :--------: | -------- |
-| Introdução a Programação | Apresentação dos conceitos básicos da lógica de programação. |
-| Fundamentos da Programação I | Contato com a linguagem python e tópicos como tipos de variáveis, strings, arrays e módulos. |
-| Administração de Sistemas Operacionais | Disciplina focada em gerar o conhecimento de administração básica de sistemas operacionais, como Windows e Linux, desde a instalação a análise de informações do sistema. |
-| Fundamentos da Programação II | Contato com a linguagem Javascript de forma similar ao contato com o python e um breve estudo sobre DOM. |
-| Programação Orientada a Objetos | Ensinamentos sobre os conceitos de POO por meio de exercícios e um trabalho final que utilizavam a linguagem Java. |
-| Banco de Dados | Contato com SQLite3, comandos pelo terminal e PostMan. |
-| Redes de Computadores | Apresentação dos conceitos de redes, suas 7 camadas, e principalmente na camada 3 do Modelo OSI (Camada de Rede) e Protolos. |
-| Programação de Dispositivos Móveis I <br> e <br> Prática Profissional I | Junção de disciplinas a fim de desenvolver a capacidade dos alunos de desenvolverem uma aplicação mobile utilizando a linguagem Swift.|
-| Métodos e Ferramentas de Desenvolvimento de Software | Ferramentas e Métodos que ajudam o programador a estabelecer um planejamento que seja eficaz para o desenvolvimento de seu projeto, como metodologias ágeis. A disciplina teve foco na metodologia Scrum. |
-
-<br>
 
 ### • Disciplinas que estou cursando: <br> <br>
 
@@ -57,7 +43,7 @@
 | Programação de Dispositivos Móveis II | Contato com a linguagem Dart e Flutter. |
 | Programação Web I | Aprendizado Inicial sobre Aplicações em formato Web. |
 | Prática Profissional II | Disciplina focada na produção de um projeto de tema livre. |
-| Eletrônica para Informática |  |
+| Eletrônica para Informática |  Contato com a parte inicial de eletrônica por meio de aulas práticas e teóricas. |
 
 </div>
 
