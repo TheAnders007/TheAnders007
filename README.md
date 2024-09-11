@@ -5,7 +5,7 @@
 
 <br>
 
->  Olá! Me chamo Anderson Maia. Sou brasileiro, tenho 16 anos e atualmente estou estudando no 5° Período do Curso de Informática no IFCE - campus Fortaleza, tendo, até o momento, contato com as seguintes linguagens: HTML, Java, JavaScript, Python, SQL e Swift. Além da programação, me interesso por áreas que em geral incluem design, processos criativos e lógica. <p> Estou disposto a cada vez mais conhecer melhor o universo tão grande que é a área de TI, para desenvolver, além  das minhas ideias de projetos, meu perfil como programador. </p>
+>  Olá! Me chamo Anderson Maia. Sou brasileiro, tenho 17 anos e atualmente estou estudando no 5° Período do Curso de Informática no IFCE - campus Fortaleza, tendo, até o momento, contato com as seguintes linguagens: HTML, Java, JavaScript, Python, SQL e Swift. Além da programação, me interesso por áreas que em geral incluem design, processos criativos e lógica. <p> Estou disposto a cada vez mais conhecer melhor o universo tão grande que é a área de TI, para desenvolver, além  das minhas ideias de projetos, meu perfil como programador. </p>
 
 <br> <br>
 
