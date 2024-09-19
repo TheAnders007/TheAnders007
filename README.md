@@ -69,7 +69,7 @@
 ○ [Little Botanist](https://github.com/TheAnders007/ProjetosAcademy/tree/main/AppFinal) (Projeto Final da disciplina de Programação de Dispositivos Móveis I)
 <br>
 ○ [Site da JAC](https://github.com/TheAnders007/ProjetoWeb-JAC) (Projeto Final da disciplina de Programação Web I)
-
+○ [Cobralingo](https://github.com/TheAnders007/Cobralingo) (Projeto Final da disciplina de Pratica Profissional)
 
 <br><br>
 
