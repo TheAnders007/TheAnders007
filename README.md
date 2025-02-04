@@ -5,7 +5,7 @@
 
 <br>
 
->  Olá! Me chamo Anderson Maia. Sou brasileiro, tenho 17 anos e atualmente estou estudando no 5° Período do Curso de Informática no IFCE - campus Fortaleza, tendo, até o momento, contato com as seguintes linguagens: HTML, Java, JavaScript, Python, SQL e Swift. Além da programação, me interesso por áreas que em geral incluem design, processos criativos e lógica. <p> Estou disposto a cada vez mais conhecer melhor o universo tão grande que é a área de TI, para desenvolver, além  das minhas ideias de projetos, meu perfil como programador. </p>
+>  Olá! Me chamo Anderson Maia. Sou brasileiro, nascido em 2007 e formado no curso Técnico Integrado em Informática do IFCE - campus Fortaleza, tendo tido o contato principalmente com programação. Além dessa área, me interesso por áreas que em geral incluem design, processos criativos e lógica. 
 
 <br> <br>
 
@@ -27,27 +27,10 @@
 
 ## Educação 
 
+• **Formado no Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Janeiro, 2025);** <br> <br>
+• **Graduando do Curso de Sistemas e Mídias Digitais, na UFC - Campus do Pici** <br>
 
-
-
-• **Estudante do Curso Técnico Integrado em Informática no Instituto Federal do Ceará campus Fortaleza (Previsão para finalização: 2024);** <br> 
-
-
-
-### • Disciplinas que estou cursando: <br> <br>
-
-<div align="center">
- 
-| Disciplina | Descrição | 
-| :--------: | -------- |
-| Programação de Dispositivos Móveis II | Contato com a linguagem Dart e Flutter. |
-| Programação Web I | Aprendizado Inicial sobre Aplicações em formato Web. |
-| Prática Profissional II | Disciplina focada na produção de um projeto de tema livre. |
-| Eletrônica para Informática |  Contato com a parte inicial de eletrônica por meio de aulas práticas e teóricas. |
-
-</div>
-
-<br> <br>
+ <br>
 
 
 ## Ferramentas Utilizadas
@@ -70,7 +53,9 @@
 <br>
 ○ [Site da JAC](https://github.com/TheAnders007/ProjetoWeb-JAC) (Projeto Final da disciplina de Programação Web I)
 <br>
-○ [Cobralingo](https://github.com/TheAnders007/Cobralingo) (Projeto Final da disciplina de Pratica Profissional)
+○ [Cobralingo](https://github.com/TheAnders007/Cobralingo) (Projeto Final da disciplina de Pratica Profissional II)
+<br>
+○ [Festivale](https://github.com/Cam1ss/PP-III) (Projeto Final da disciplina de Pratica Profissional III)
 
 <br><br>
 
